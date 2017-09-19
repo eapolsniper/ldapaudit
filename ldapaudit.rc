@@ -1,0 +1,5 @@
+services -u -p 389 -o ldap_389
+services -u -p 636 -o ldap_636
+services -u -p 3268 -o ldap_3268
+services -u -p 3269 -o ldap_3269
+exit
